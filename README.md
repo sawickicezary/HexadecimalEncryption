@@ -11,5 +11,5 @@ You have to place file with name encrypted.bin to uncrypt it later.
 Result file will remain the same name.
 
 ### TODO
-I know the code is written badly and used language is polish isntead of english but that was my second ever program made in C++.
+I know the code is written badly and used language is polish istead of english but that was my second ever program made in C++.
 I will work on this project to clean it up if I'll find enough time for it.
